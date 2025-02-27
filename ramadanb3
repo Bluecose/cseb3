@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\device-width, initial-scale=1.0">
+    <title>CSE-B3 Ramadan Class Routine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #007BFF;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>CSE-B3 Ramadan Class Routine</h2>
+        <table>
+            <tr>
+                <th>Day</th>
+                <th>Time</th>
+                <th>Course</th>
+                <th>Room</th>
+            </tr>
+            <tr>
+                <td rowspan="3">Monday</td>
+                <td>9:00 AM - 10:00 AM</td>
+              <td>Introduction to Programming <span style="color: green;"><b>(Theory)</b></td>
+                <td>5109</td>
+            </tr>
+            <tr>
+                <td>10:00 AM - 11:00 AM</td>
+                <td>Physics 1 <span style="color: green;"><b>(Theory)</b></td>
+                <td>5107</td>
+            </tr>
+            <tr>
+                <td>12:00 PM - 1:30 PM</td>
+                <td>Introduction to Programming <span style="color: Red;"><b>(Lab)</b></td>
+                <td>DS0203</td>
+            </tr>
+            <tr>
+                <td rowspan="3">Tuesday</td>
+                <td>9:00 AM - 10:30 AM</td>
+                <td>Physics 1 <span style="color: Red;"><b>(Lab)</b></td>
+                <td>DE0101</td>
+            </tr>
+            <tr>
+                <td>12:00 PM - 1:00 PM</td>
+                <td>Differential Calculus and Coordinate Geometry
+              <span style="color: green;"><b>(Theory)</b></td>
+                <td>5105</td>
+            </tr>
+            <tr>
+                <td>1:20 PM - 2:20 PM</td>
+                <td>English Reading Skills & Public Speaking<span style="color: green;"><b>(Theory)</b></td>
+                <td>5104</td>
+            </tr>
+            <tr>
+                <td rowspan="3">Wednesday</td>
+                <td>9:00 AM - 10:00 AM</td>
+                <td>Introduction to Programming <span style="color: green;"><b>(Theory)</b></td>
+                <td>5109</td>
+            </tr>
+            <tr>
+                <td>10:00 AM - 11:00 AM</td>
+                <td>Physics 1 <span style="color: green;"><b>(Theory)</b></td>
+                <td>5107</td>
+            </tr>
+            <tr>
+                <td>12:00 PM - 1:30 PM</td>
+                <td>Introduction to Computer Studies <span style="color: Red;"><b>(Lab)</b></td>
+                <td>DS0208</td>
+            </tr>
+            <tr>
+                <td rowspan="2">Sunday</td>
+                <td>12:00 PM - 1:00 PM</td>
+                <td>Differential Calculus and Coordinate Geometry<span style="color: green;"><b>(Theory)</b></td>
+                <td>5105</td>
+            </tr>
+            <tr>
+                <td>1:20 PM - 2:20 PM</td>
+                <td>English Reading Skills & Public Speaking<span style="color: green;"><b>(Theory)</b></td>
+                <td>5104</td>
+            </tr>
+        </table>
+    </div>
+  <p style="text-align: center; font-size: 14px; color: #555;">Created by <a href="https://www.facebook.com/hae.ami.earth.e/">Mahid Azad</a></p><p style="text-align: center; font-size: 14px; color: #555;">In case of any mistakes, I am not responsible, and you are not forced to follow my created routine.</p>
+</body>
+</html>
